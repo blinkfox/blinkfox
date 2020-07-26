@@ -1,4 +1,4 @@
-<img align="right" src="hhttps://github.com/blinkfox/blinkfox/blob/master/bg.jpg" alt="海内存知己，天涯若比邻" width="201px" height="461px" />
+<img align="right" src="https://github.com/blinkfox/blinkfox/blob/master/bg.jpg" alt="海内存知己，天涯若比邻" width="201px" height="461px" />
 
 ### 🦊 闪烁之狐 (blinkfox)
 
