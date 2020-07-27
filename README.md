@@ -1,4 +1,4 @@
-<img align="right" src="https://s1.ax1x.com/2020/07/27/aipR8H.jpg" alt="禅" width="477px" height="500px" />
+<img align="right" src="https://s1.ax1x.com/2020/07/27/aipR8H.jpg" alt="禅" width="238px" height="275px" />
 
 ### 🦊 闪烁之狐 (blinkfox)
 
@@ -11,6 +11,4 @@
 城阙辅三秦，风烟望五津。<br />
 与君离别意，同是宦游人。<br />
 海内存知己，天涯若比邻。<br />
-无为在歧路，儿女共沾巾。<br />
-
-[![Blinkfox Github Stats](https://github-readme-stats.vercel.app/api?username=blinkfox)](https://github.com/blinkfox)
+无为在歧路，儿女共沾巾。
